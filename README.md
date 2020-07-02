@@ -1,5 +1,5 @@
 # Diabetic-Retinopathy-detector
-So first of all what the diabetic retinopathy means?
+first I will tell you what the diabetic retinopathy means?
 
 Diabetic retinopathy is an disease of eye caused to an person due to diabetes,it is the condition in which person's eye is damaged due to mellitus present in human eye. It is basically occurs when the blood form several droplets on to the retina and it remain collected at that perticular place and this affect the person and if it occur in more extent then an person can lead towards blindliness due to the cause called Diabetic Rectinopathy. present in human eye.
 
