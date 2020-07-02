@@ -22,7 +22,7 @@ So what out Deep Learning Model will do?
 
 It will Predict the stage of diabetic retinopathy on the bases of photo which is to be uploaded by the user.
 
-Here is an Deep Learning model https://github.com/kamlesh11/Diabetic-Retinopathy-Detection-Using-Deep-Learning/blob/master/diabetic-retinopathy-detector.ipynb
+Here is an Deep Learning model 
 
 And we also made an web app through which any Person can know his/her eye condition by Uploading the Retina photo of his/her eye on to the web app and web app will tell that whether he/she is suffering from diabetic retinopathy of not.
 
